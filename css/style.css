@@ -1,0 +1,85 @@
+/* Estilos */
+.fondo-azul {
+    background-color: #415A77;
+    margin: 10px;
+    padding: 5px;
+}
+
+/* General */
+.header {
+    background-color: #0D1B2A;
+    margin: 10px;
+    padding: 5px;
+    font-family: sans-serif;
+    font-size: 10px;
+    @import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap);
+}
+.footer {
+    background-color: #0D1B2A;
+    margin: 10px;
+    padding: 5px;
+    font-family: sans-serif;
+    @import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap);
+    }
+
+.link-footer {
+    list-style: none;
+    color: #E0E1DD;
+    @import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap);
+}
+
+.lista-principal {
+    list-style: none;
+}
+
+.link-principal {
+    list-style: none;
+    color: #E0E1DD;
+    @import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap);
+}
+
+#main{
+    background-color:#415A77;
+}
+
+.section {
+    margin: 10px;
+    padding: 5px;
+}
+.section article {
+    background-color: #0D1B2A;
+    @import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap);
+    color: #E0E1DD;
+    font-size: 5px;
+}
+.lista-no-ordenada  {
+    list-style: none;
+    color: #E0E1DD;
+}
+
+/* Imagenes*/
+
+.tattoo-img {
+    width: 400px;
+    height: 500px;
+}
+.tattoo-banner {
+    width: 450px;
+    height: 600px;
+}
+
+.retrato-femenino {
+    width: 300px;
+    height: 400px;
+    margin: 50px;
+    padding: 50px;
+}
+
+
+
+
+/* Contacto */
+#main-contacto {
+    margin: 10px;
+    padding: 5px;
+}
